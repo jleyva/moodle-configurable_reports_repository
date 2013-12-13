@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040106"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Most active courses]]></name>
+<summary><![CDATA[<pre class="sql"></pre>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6MTkxOiJTRUxFQ1QrQ09VTlQlMjhsLmlkJTI5K2hpdHMlMkMrbC5jb3Vyc2UrY291cnNlSWQlMkMrYy5mdWxsbmFtZStjb3Vyc2VuYW1lJTBEJTBBRlJPTStwcmVmaXhfbG9nK2wrSU5ORVIrSk9JTitwcmVmaXhfY291cnNlK2MrT04rbC5jb3Vyc2UrJTNEK2MuaWQlMEQlMEFHUk9VUCtCWStjb3Vyc2VJZCUwRCUwQU9SREVSK0JZK2hpdHMrREVTQyI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjQ6InBsb3QiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjA6e319fQ==]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040106"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Site-wide completed SCORM activities by Course name]]></name>
+<summary><![CDATA[<pre class="sql"></pre>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NDYzOiJTRUxFQ1QrdS5maXJzdG5hbWUrRklSU1QlMkN1Lmxhc3RuYW1lK0xBU1QlMkNjLmZ1bGxuYW1lK0NvdXJzZSUyQytzdC5hdHRlbXB0K0F0dGVtcHQlMkNzdC5WQUxVRStTVEFUVVMlMkNGUk9NX1VOSVhUSU1FJTI4c3QudGltZW1vZGlmaWVkJTJDJTIyJTI1bS0lMjVkLSUyNVklMjIlMjkrREFURSslMEQlMEFGUk9NK3ByZWZpeF9zY29ybV9zY29lc190cmFjaytBUytzdCslMEQlMEFKT0lOK3ByZWZpeF91c2VyK0FTK3UrT04rc3QudXNlcmlkJTNEdS5pZCUwRCUwQUpPSU4rcHJlZml4X3Njb3JtK0FTK3NjK09OK3NjLmlkJTNEc3Quc2Nvcm1pZCUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStBUytjK09OK2MuaWQlM0RzYy5jb3Vyc2UlMEQlMEFXSEVSRStzdC5WQUxVRSUzRCUyN2NvbXBsZXRlZCUyNyslMEQlMEFPUkRFUitCWStjLmZ1bGxuYW1lJTJDK3UubGFzdG5hbWUlMkN1LmZpcnN0bmFtZSUyQytzdC5hdHRlbXB0IjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6NDoicGxvdCI7YToxOntzOjg6ImVsZW1lbnRzIjthOjA6e319czo3OiJmaWx0ZXJzIjthOjE6e3M6ODoiZWxlbWVudHMiO2E6MDp7fX19]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[3]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
