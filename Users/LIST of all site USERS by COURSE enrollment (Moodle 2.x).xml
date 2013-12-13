@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040106"><visible><![CDATA[1]]></visible>
+<name><![CDATA[LIST of all site USERS by COURSE enrollment (Moodle 2.x)]]></name>
+<summary><![CDATA[<pre class="sql"></pre>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NTM4OiJTRUxFQ1QlMEQlMEF1c2VyMi5maXJzdG5hbWUrQVMrRmlyc3RuYW1lJTJDJTBEJTBBdXNlcjIubGFzdG5hbWUrQVMrTGFzdG5hbWUlMkMlMEQlMEF1c2VyMi5lbWFpbCtBUytFbWFpbCUyQyUwRCUwQXVzZXIyLmNpdHkrQVMrQ2l0eSUyQyUwRCUwQWNvdXJzZS5mdWxsbmFtZStBUytDb3Vyc2UlMEQlMEElMkMlMjhTRUxFQ1Qrc2hvcnRuYW1lK0ZST00rcHJlZml4X3JvbGUrV0hFUkUraWQlM0Rlbi5yb2xlaWQlMjkrQVMrUk9MRSUwRCUwQSUyQyUyOFNFTEVDVCtuYW1lK0ZST00rcHJlZml4X3JvbGUrV0hFUkUraWQlM0Rlbi5yb2xlaWQlMjkrQVMrUm9sZU5hbWUlMEQlMEErJTBEJTBBRlJPTStwcmVmaXhfY291cnNlK0FTK2NvdXJzZSslMEQlMEFKT0lOK3ByZWZpeF9lbnJvbCtBUytlbitPTitlbi5jb3Vyc2VpZCslM0QrY291cnNlLmlkJTBEJTBBSk9JTitwcmVmaXhfdXNlcl9lbnJvbG1lbnRzK0FTK3VlK09OK3VlLmVucm9saWQrJTNEK2VuLmlkJTBEJTBBSk9JTitwcmVmaXhfdXNlcitBUyt1c2VyMitPTit1ZS51c2VyaWQrJTNEK3VzZXIyLmlkIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6NDoicGxvdCI7YToxOntzOjg6ImVsZW1lbnRzIjthOjA6e319fQ==]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
