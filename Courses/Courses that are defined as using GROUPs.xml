@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040106"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Courses that are defined as using GROUPs]]></name>
+<summary><![CDATA[<pre class="sql"></pre>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NDIzOiJTRUxFQ1QrY29uY2F0JTI4JTI3JTNDYSt0YXJnZXQlM0QlMjJfbmV3JTIyK2hyZWYlM0QlMjIlMjUlMjVXV1dST09UJTI1JTI1JTJGZ3JvdXAlMkZpbmRleC5waHAlM0ZpZCUzRCUyNyUyQ2MuaWQlMkMlMjclMjIlM0UlMjclMkNjLmZ1bGxuYW1lJTJDJTI3JTNDJTJGYSUzRSUyNyUyOStBUytDb3Vyc2UlMEQlMEElMkMlMjhTRUxFQ1QrQ09VTlQlMjglMkElMjkrRlJPTStwcmVmaXhfY291cnNlX21vZHVsZXMrY20rV0hFUkUrY20uY291cnNlKyUzRCtjLmlkJTI5K01vZHVsZXMlMEQlMEElMkMlMjhTRUxFQ1QrQ09VTlQlMjglMkElMjkrRlJPTStwcmVmaXhfZ3JvdXBzK2crV0hFUkUrZy5jb3Vyc2VpZCslM0QrYy5pZCUyOStHcm91cHMlMEQlMEErRlJPTSslNjBwcmVmaXhfY291cnNlJTYwK0FTK2MlMEQlMEFXSEVSRStncm91cG1vZGUrJTNFKzAiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319czo0OiJwbG90IjthOjE6e3M6ODoiZWxlbWVudHMiO2E6MTp7aTowO2E6NTp7czoyOiJpZCI7czoxNToibzk4QXNqV1pCS0FkOVliIjtzOjg6ImZvcm1kYXRhIjtPOjY6Im9iamVjdCI6Mzp7czo4OiJhcmVhbmFtZSI7czoxOiIxIjtzOjk6ImFyZWF2YWx1ZSI7czoxOiIyIjtzOjEyOiJzdWJtaXRidXR0b24iO3M6MzoiQWRkIjt9czoxMDoicGx1Z2lubmFtZSI7czozOiJwaWUiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjM6IlBpZSI7czo3OiJzdW1tYXJ5IjtzOjExOiJBK3BpZStncmFwaCI7fX19fQ==]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
