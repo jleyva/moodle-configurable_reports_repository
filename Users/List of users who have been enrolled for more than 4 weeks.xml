@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040106"><visible><![CDATA[1]]></visible>
+<name><![CDATA[List of users who have been enrolled for more than 4 weeks]]></name>
+<summary><![CDATA[<pre class="sql"></pre>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6MzYyOiJTRUxFQ1QrdWVuci51c2VyaWQrQVMrVVNFUiUyQytJRiUyOGVuci5jb3Vyc2VpZCUzRGVuci5jb3Vyc2VpZCslMkMlMjdZJTI3JTJDJTI3TiUyNyUyOStBUytFbnJvbGxlZCUyQyslMEQlMEFJRiUyOERBVEVESUZGJTI4Tk9XJTI4JTI5JTJDK0ZST01fVU5JWFRJTUUlMjh1ZW5yLnRpbWVjcmVhdGVkJTI5JTI5JTNFJTNEMjglMkMlMjdZJTI3JTJDJTI3TiUyNyUyOStBUytFbnJvbGxlZE1vcmVUaGFuNFdlZWtzJTBEJTBBRlJPTStwcmVmaXhfZW5yb2wrQVMrZW5yJTJDK3ByZWZpeF91c2VyX2Vucm9sbWVudHMrQVMrdWVuciUwRCUwQVdIRVJFK2Vuci5pZCslM0QrdWVuci5lbnJvbGlkK0FORCtlbnIuU1RBVFVTKyUzRCt1ZW5yLnN0YXR1cyI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjQ6InBsb3QiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjA6e319fQ==]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
