@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040106"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Users course time dedication]]></name>
+<summary><![CDATA[<p>This report shows the course dedication time of all the users in the course</p>]]></summary>
+<type><![CDATA[users]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjc6ImNvbHVtbnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YTozOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiJ6OHEyN0paRW1TaW85bFQiO3M6ODoiZm9ybWRhdGEiO086Njoib2JqZWN0Ijo2OntzOjY6ImNvbHVtbiI7czo4OiJsYXN0bmFtZSI7czo5OiJjb2x1bW5hbWUiO3M6ODoiTGFzdG5hbWUiO3M6NToiYWxpZ24iO3M6NjoiY2VudGVyIjtzOjQ6InNpemUiO3M6MDoiIjtzOjQ6IndyYXAiO3M6MDoiIjtzOjEyOiJzdWJtaXRidXR0b24iO3M6MzoiQWRkIjt9czoxMDoicGx1Z2lubmFtZSI7czo5OiJ1c2VyZmllbGQiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjE4OiJVc2VyK3Byb2ZpbGUrZmllbGQiO3M6Nzoic3VtbWFyeSI7czo4OiJMYXN0bmFtZSI7fWk6MTthOjU6e3M6MjoiaWQiO3M6MTU6IlM5aUlZeWxVcFRFalVkNCI7czo4OiJmb3JtZGF0YSI7Tzo2OiJvYmplY3QiOjY6e3M6NjoiY29sdW1uIjtzOjk6ImZpcnN0bmFtZSI7czo5OiJjb2x1bW5hbWUiO3M6OToiRmlyc3RuYW1lIjtzOjU6ImFsaWduIjtzOjY6ImNlbnRlciI7czo0OiJzaXplIjtzOjA6IiI7czo0OiJ3cmFwIjtzOjA6IiI7czoxMjoic3VibWl0YnV0dG9uIjtzOjM6IkFkZCI7fXM6MTA6InBsdWdpbm5hbWUiO3M6OToidXNlcmZpZWxkIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoxODoiVXNlcitwcm9maWxlK2ZpZWxkIjtzOjc6InN1bW1hcnkiO3M6OToiRmlyc3RuYW1lIjt9aToyO2E6NTp7czoyOiJpZCI7czoxNToiaWhUb3g4VnBGSDJSdVg1IjtzOjg6ImZvcm1kYXRhIjtPOjY6Im9iamVjdCI6Njp7czo0OiJzdGF0IjtzOjIwOiJjb3Vyc2VkZWRpY2F0aW9udGltZSI7czo5OiJjb2x1bW5hbWUiO3M6MTU6IkRlZGljYXRpb24rdGltZSI7czo1OiJhbGlnbiI7czo2OiJjZW50ZXIiO3M6NDoic2l6ZSI7czowOiIiO3M6NDoid3JhcCI7czowOiIiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjk6InVzZXJzdGF0cyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTU6IlVzZXIrc3RhdGlzdGljcyI7czo3OiJzdW1tYXJ5IjtzOjE1OiJEZWRpY2F0aW9uK3RpbWUiO319fX0=]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
